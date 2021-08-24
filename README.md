@@ -12,8 +12,8 @@ To-do App with authentication and tasks grouped by projects, which can be create
 ```
 
 -   Run `yarn` or `npm install` inside the client and server folders to install all dependencies.
--   Get your own MongoDB Atlas Database [here](https://www.mongodb.com/cloud/atlas).
--   Add the Database url to your variables.env file.
+-   Run your local MongoDB process OR get MongoDB Atlas Database [here](https://www.mongodb.com/cloud/atlas)
+-   Add the Database url to your variables.env file in the MongoDB URL [format](https://docs.mongodb.com/manual/reference/connection-string/)
 -   Add the secret key for JSON web tokens to your variables.env file.
 
 ```
